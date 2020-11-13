@@ -1,0 +1,6 @@
+example2.csv -> data with shop names, listing link, and titles
+images.csv -> link to the listing image
+prices.csv -> prices for listing
+sampleimage.jpg -> example of listing image to be saved
+
+(not included for privacy reasons is the pictures folder which is essentially just a folder of pictures like the sample image.)
